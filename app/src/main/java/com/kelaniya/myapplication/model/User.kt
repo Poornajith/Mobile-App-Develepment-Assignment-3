@@ -1,4 +1,4 @@
-package com.vimukthini.android.apicall.model
+package com.kelaniya.myapplication.model
 
 data class User(
     val id : Number,

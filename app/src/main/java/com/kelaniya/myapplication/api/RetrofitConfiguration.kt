@@ -1,4 +1,4 @@
-package com.vimukthini.android.apicall.api
+package com.kelaniya.myapplication.api
 
 import com.vimukthini.android.apicall.model.User
 import retrofit2.Call
